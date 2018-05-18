@@ -12,6 +12,8 @@ Welcome to charge's documentation!
 
    charge
 
+   structural-changes
+
 Indices and tables
 ==================
 

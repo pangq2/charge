@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["Welcome to charge\u2019s documentation!"],titleterms:{charg:0,document:0,indic:0,tabl:0,welcom:0}})
+Search.setIndex({docnames:["charge","index"],envversion:53,filenames:["charge.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{content:1,index:1,modul:1,page:1,search:1},titles:["charge","Welcome to charge\u2019s documentation!"],titleterms:{charg:[0,1],document:1,indic:1,tabl:1,welcom:1}})
