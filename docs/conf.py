@@ -153,3 +153,10 @@ texinfo_documents = [
      author, 'useful-scripts', 'One line description of project.',
      'Miscellaneous'),
 ]
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+            '.md': CommonMarkParser,
+            }
+
+source_suffix = ['.rst', '.md']
