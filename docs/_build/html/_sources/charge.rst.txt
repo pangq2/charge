@@ -1,4 +1,4 @@
 charge
 =======
-.. automodule:: scripts.charge
+.. automodule:: charge.charge
    :members:

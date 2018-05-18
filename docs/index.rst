@@ -12,7 +12,7 @@ Welcome to charge's documentation!
 
    charge
 
-   structural-changes
+   change
 
 Indices and tables
 ==================
